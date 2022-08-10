@@ -1,0 +1,60 @@
+.search-text {
+  text-align: center;
+}
+.inputs {
+  text-align: center;
+}
+
+.search-box {
+  width: 315px;
+  height: 15px;
+  background-color: white;
+}
+.container {
+  width: 1155.69px;
+  height: 67px;
+  background-color: #eeeeee;
+  margin: 0 auto;
+}
+.ort {
+  text-align: center;
+}
+.container2 {
+  margin-top: 2px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+}
+.box-1 {
+  width: 388.38px;
+  margin-right: 2px;
+  background-color: #7ee5da;
+  margin-top: 8px;
+}
+.box-2 {
+  text-align: center;
+
+  margin-top: 8px;
+  background-color: #70ccc2;
+  width: 317.2px;
+  margin-right: 2px;
+  font-size: 0.75em;
+}
+
+.box-3 {
+  list-style: none;
+  text-align: center;
+  background-color: #62b3aa;
+  width: 450px;
+  font-size: 0.75em;
+  margin-top: 8px;
+}
+
+p + .email {
+  width: 315px;
+  height: 15px;
+}
+
+.footer {
+  text-align: center;
+}
